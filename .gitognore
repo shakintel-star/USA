@@ -1,0 +1,24 @@
+# @USA PRIVATE REPOSITORY GUARD ⭕️
+# Protect Shakti Singh Intellectual Property
+
+# Python internals
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sovereign Identity & Secrets
+.env
+.secrets/
+*.pem
+*.key
+ip_logs.json
+
+# Agency Command Cache & Reports
+/tmp/
+*.threat_matrix
+*.strike_report
+
+# Local Metadata
+.DS_Store
+.vscode/
+.idea/
